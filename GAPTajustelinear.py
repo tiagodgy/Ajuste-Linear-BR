@@ -140,7 +140,8 @@ def  abrirdados():  #Essa função abre o arquivo texto para que o usuário poss
 
 
    
-root = Tk(className="Aproximador Linear BR") #Aqui começa a criação da interface gráfica
+root = Tk(className=" GAPT") #Aqui começa a criação da interface gráfica
+#Nome em homenagem aos criadores Guilherme, Gustavo, Alberto, Patrick e Tiago
 
 labelx = Label(root, text='X')# Cria um texto na inteface gráfica
 labely = Label(root, text="Y")
