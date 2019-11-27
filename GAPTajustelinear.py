@@ -198,7 +198,8 @@ salvar.grid(columnspan=2)
 gerar = Button(root, text="Gerar gráfico", command= ajuslin, height = 1, width =10)
 gerar.grid(columnspan=2)
 
-
+labelnome = Label(root, text="Copyright (c) 2019 Tiago Godoy; \n Alberto Souza;  Gustavo Ferreira;\n Guilherme Pinatti; Patrick Padula. ")
+labelnome.grid(pady= 20, columnspan=2)
 
 
 
